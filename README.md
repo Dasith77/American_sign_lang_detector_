@@ -1,4 +1,5 @@
 # American_sign_lang_detector_
+Project description
 This is semester 5 embedded system engineering project based on machine learning and computer vision to detedct hand sign languages and convert it  to a audible sounds.
 
 As the first stage, I hope to convert finger spelling into the readable english language text.
