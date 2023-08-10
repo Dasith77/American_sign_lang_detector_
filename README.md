@@ -23,13 +23,13 @@ This process is challenging, but it is becoming increasingly feasible with the d
 
 **--In this 1st stage I  use this flow--**
 
-How to load the data
-
-Convert the data to tfrecords to make it faster to re-train the model
-
-Train a transformer models on the data
-
-Convert the model to TFLite
+    How to load the data
+    
+    Convert the data to tfrecords to make it faster to re-train the model
+    
+    Train a transformer models on the data
+    
+    Convert the model to TFLite
 
 
 **--Prerequisites for this first stage--**
