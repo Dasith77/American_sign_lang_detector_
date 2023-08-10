@@ -4,7 +4,7 @@
 ![asl_exmp](https://github.com/Dasith77/American_sign_lang_detector_/assets/65776391/f6d83186-2a54-4b67-af79-630abc708800)
 
 
-**Overall Project description**
+# Overall Project description
 
 This is semester 5 embedded system engineering project based on machine learning and computer vision to detedct hand sign languages and convert it  to a audible sounds.
 
