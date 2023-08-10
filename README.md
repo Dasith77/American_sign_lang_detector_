@@ -41,6 +41,8 @@ Convert the model to TFLite
     NumPy
     
     Pandas
+
+    OpenCV
     
     Matplotlib
 
