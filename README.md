@@ -48,6 +48,14 @@ This process is challenging, but it is becoming increasingly feasible with the d
 
 
 
+# Using land mark detection
+
+This project will done by using landmark detection method.
+
+
+
+
+
 Converting the data to tfrecords
 
 Training the model
