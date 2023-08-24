@@ -52,6 +52,13 @@ This process is challenging, but it is becoming increasingly feasible with the d
 
 This project will done by using landmark detection method.
 
+# 1 STEP - Collecting data set for training
+
+In here I used my own example dataset for prototype. I create as each alphabet letter as a class and in each class include 100 images(frames).
+
+
+
+
 
 
 
