@@ -24,4 +24,6 @@ This code is part of a GitHub repository for collecting data from a webcam to cr
 ![image](https://github.com/Dasith77/American_sign_lang_detector_/assets/65776391/51789b39-cfdd-4812-956a-687c6843f526)
 
 ## About mediapipe library
-MediaPipe is an open-source framework developed by Google that focuses on providing pre-built solutions for various computer vision and machine learning tasks. It simplifies the development process by offering a collection of ready-to-use models and tools, allowing developers to build applications that involve real-time perception and understanding of the world through cameras, images, and videos.
+MediaPipe is an open-source framework developed by Google that focuses on providing pre-built solutions for various computer vision and machine learning tasks. It simplifies the development process by offering a collection of ready-to-use models and tools, allowing developers to build applications that involve real-time perception and understanding of the world through cameras, images, and videos.The relationship between MediaPipe and TensorFlow is that MediaPipe is built on top of TensorFlow. It utilizes TensorFlow's underlying capabilities for training and inference of models. MediaPipe takes advantage of TensorFlow's deep learning capabilities while providing a higher-level interface for specific computer vision tasks.
+
+
