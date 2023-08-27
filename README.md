@@ -19,3 +19,5 @@ The American Sign Language Interpreter is a powerful application designed to bri
 
 ## 1.1 Collecting dataset from webcam
 
+This code is part of a GitHub repository for collecting data from a webcam to create a training dataset for a machine learning model. The script uses the OpenCV library to interact with the webcam and capture frames. It sets up a directory structure in the repository's "./data" directory to store the collected images. The script is designed to work with 10 classes, capturing 200 images for each class. It uses the webcam feed to guide users to press the 'Q' key to start capturing frames for each class. Subsequently, the code captures frames, displays them in a window, and saves them as sequentially numbered image files in their respective class folders. Once the dataset size is reached for each class, the script releases the webcam capture and closes any open windows. This code snippet is an essential part of the repository's data collection process for training machine learning models that require image data.
+
