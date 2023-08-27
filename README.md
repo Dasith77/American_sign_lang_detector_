@@ -1,7 +1,6 @@
 # American_sign_lang_detector_
+![ACTUAL DESIGN - This is what we publish!](https://github.com/Dasith77/American_sign_lang_detector_/assets/65776391/6097b390-bb16-459e-a791-184a10cea026)
 
-
-![Uploading ACTUAL DESIGN - This is what we publish!.jpg…]()
 
 # Overall Project description
 
