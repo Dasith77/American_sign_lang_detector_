@@ -1,8 +1,7 @@
 # American_sign_lang_detector_
 
 
-![asl_exmp](https://github.com/Dasith77/American_sign_lang_detector_/assets/65776391/f6d83186-2a54-4b67-af79-630abc708800)
-
+![Uploading ACTUAL DESIGN - This is what we publish!.jpg…]()
 
 # Overall Project description
 
