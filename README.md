@@ -10,7 +10,7 @@ The American Sign Language Interpreter is a powerful application designed to bri
 
 # I implement this project as 2 stages.
 
-    1. Impelemt machine learning part to recognizes and build a sentence using those characters.
+    1. Impelemt machine learning part to recognizes hand signs and build a sentence using those characters.
     2. Further implementation into a web based application.
     
 
