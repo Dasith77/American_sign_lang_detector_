@@ -33,5 +33,8 @@ MediaPipe is an open-source framework developed by Google that focuses on provid
 
 This Python script utilizes the MediaPipe library to detect hand landmarks in images from a designated directory, showcasing the application of computer vision techniques through visualization using OpenCV and matplotlib.
 
+![image](https://github.com/Dasith77/American_sign_lang_detector_/assets/65776391/efdcc22f-ca80-4ae8-a28f-0fbb58d01d0f)
+
+
 
 
