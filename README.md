@@ -36,5 +36,6 @@ This Python script utilizes the MediaPipe library to detect hand landmarks in im
 ![image](https://github.com/Dasith77/American_sign_lang_detector_/assets/65776391/efdcc22f-ca80-4ae8-a28f-0fbb58d01d0f)
 
 
+references : https://mediapipe-studio.webapps.google.com/home
 
 
