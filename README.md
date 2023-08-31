@@ -31,6 +31,7 @@ MediaPipe is an open-source framework developed by Google that focuses on provid
 
 ## 1.2 Creating landmarks on the hands of the captured images
 
+This Python script utilizes the MediaPipe library to detect hand landmarks in images from a designated directory, showcasing the application of computer vision techniques through visualization using OpenCV and matplotlib.
 
 
 
